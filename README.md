@@ -105,7 +105,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![output](./1.jpg)
+![output](./NewPicture.jpg)
 
 ### ii) Display the video
 ![output](./2.png)
@@ -116,7 +116,7 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![output](./)
+![output](./4.png)
 
 
 ## Result:
